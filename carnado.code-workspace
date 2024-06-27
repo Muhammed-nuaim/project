@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../1st weak"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "1st weak"
+	}
+}
